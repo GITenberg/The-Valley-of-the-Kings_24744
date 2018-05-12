@@ -1,0 +1,28 @@
+_repo: The-Valley-of-the-Kings_24744
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pickthall, Marmaduke William
+    birthdate: 1875
+    deathdate: 1936
+    gutenberg_agent_id: '7047'
+    url: http://www.gutenberg.org/2009/agents/7047
+    wikipedia: http://en.wikipedia.org/wiki/Marmaduke_Pickthall
+description: ''
+gutenberg_issued: '2008-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle East -- Fiction'
+- !lcsh 'Missionaries -- Fiction'
+- !lcc 'PR'
+title: The Valley of the Kings
+url: http://www.gutenberg.org/ebooks/24744
