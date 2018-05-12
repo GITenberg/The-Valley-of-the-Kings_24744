@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7047
     wikipedia: http://en.wikipedia.org/wiki/Marmaduke_Pickthall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24744#The-Valley-of-the-Kings
 gutenberg_issued: '2008-03-03'
 gutenberg_type: Text
 identifiers:
